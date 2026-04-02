@@ -9,9 +9,6 @@ The system is built using Python, Flask, and Logistic Regression, and is deploye
 🔗 Live Application:
 👉 https://ai-placement-prediction.onrender.com
 
-🔗 GitHub Repository:
-👉 https://github.com/FriendlyAligator/ai-placement-prediction
-
 
 📌 Project Overview
 
